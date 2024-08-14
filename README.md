@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @VarshaM11
-- 👀 I’m interested in coding
-- 🌱 I’m a student 
-- 💞️ I’m from srilanka
+- Software Engineering
+- srilankan 🇱🇰
 
 
 <!---
